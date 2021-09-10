@@ -1,0 +1,52 @@
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Fiery's first theme",
+        "author": "Fiery Glow#1263"
+    },
+    "background": {
+        "overlay_alpha": 155,
+        "blur_radius": 2,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/360420923956002826\/885546710057758790\/NEON_CARBON_LED.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/360420923956002826\/885855666961543218\/Inconsolata_SemiCondensed-SemiBold.ttf"
+    },
+    "simple_colors": {
+        "active_channel": 486539263,
+        "input_background": -15130834,
+        "accent": -13401234,
+        "statusbar": -16380892,
+        "mention_highlight": 1058516102
+    },
+    "colors": {
+        "brand_new": -12476795,
+        "brand_new_300": -12476795,
+        "brand_new_360": -12476795,
+        "brand_new_400": -12476795,
+        "brand_new_430": -12476795,
+        "brand_new_460": -12476795,
+        "brand_new_500": -12476795,
+        "brand_new_530": -12476795,
+        "brand_new_560": -12476795,
+        "brand_new_600": -12476795,
+        "brand_new_630": -12476795,
+        "brand_new_660": -12476795,
+        "primary_600": -16644585,
+        "primary_630": -14802121,
+        "primary_700": -14802121,
+        "primary_800": -14802121,
+        "primary_dark_600": -14868409,
+        "primary_dark_630": -16051410,
+        "primary_dark_660": -16770498,
+        "primary_dark_700": -16380892,
+        "primary_dark_800": -16512741,
+        "primary_dark_400": -15160186,
+        "link": -12531805,
+        "primary_dark_100": -1941856635,
+        "primary_dark_360": -10719593,
+        "primary_dark_300": -13401234
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 402653183
+    }
+}
