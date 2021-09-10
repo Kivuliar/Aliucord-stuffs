@@ -1,7 +1,9 @@
     "manifest": {
         "version": "1.0.0",
-        "name": "Fiery's first theme",
-        "author": "Fiery Glow#1263"
+        "author": "Fiery Glow#1263",
+        "updater": "https:\/\/raw.githubusercontent.com\/Kivuliar\/Cyber-Aliucord-theme\/main\/Cyber.json",
+        "license": "MIT",
+        "name": "Cyber"
     },
     "background": {
         "overlay_alpha": 155,
