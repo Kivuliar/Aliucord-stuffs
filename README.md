@@ -1,2 +1,3 @@
-# Aliucord-themes
-My own themes for Aliucord (themer) to throw somewhere
+# Aliucord and vendetta themes
+My themes to put somewhere
+
