@@ -1,0 +1,23 @@
+{
+	"name": "Cyber",
+	"description": "Attempt at porting a theme from Aliucord",
+	"authors": [
+        	{
+			"name": "Kiv#1263",
+			"id": "292969022390009867"
+		}
+	],
+	"spec": 2,
+	"semanticColors": { 
+		"HEADER_PRIMARY":  ["#419E85", "#419E85", "#419E85"], 
+		"HEADER_SECONDARY": ["#419E85", "#419E85", "#419E85"],
+		"INTERACTIVE_NORMAL": ["#419E85", "#419E85", "#419E85"],
+		"INTERACTIVE_MUTED": ["#29473f", "#29473f", "#29473f"], 
+		"TEXT_LINK": ["#40C7A3", "#40C7A3", "#40C7A3"]
+	},
+  "background": {
+		"blur": 0,
+		"url": "https://cdn.discordapp.com/attachments/360420923956002826/885546710057758790/NEON_CARBON_LED.jpg",
+		"alpha": 0.70
+	}
+}
