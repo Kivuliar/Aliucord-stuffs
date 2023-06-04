@@ -23,7 +23,10 @@
 		"BACKGROUND_TERTIARY": ["#02081E", "#02081E", "#02081E"],
 		"BACKGROUND_SECONDARY": ["#000206", "#000206", "#000206"]
 	},
-  "background": {
+	"rawColors": {
+		"PRIMARY_660": ["#000206", "#000206", "#000206"]
+	},
+  	"background": {
 		"blur": 0,
 		"url": "https://cdn.discordapp.com/attachments/360420923956002826/885546710057758790/NEON_CARBON_LED.jpg",
 		"alpha": 0.40
